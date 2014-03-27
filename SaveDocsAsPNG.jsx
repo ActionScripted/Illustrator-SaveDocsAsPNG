@@ -80,6 +80,7 @@ function getOptions() {
 
     // The defaults are awesome, except this one
     options.artBoardClipping = true;
+    options.transparency = false;
 
     return options;
 }
